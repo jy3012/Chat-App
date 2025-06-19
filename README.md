@@ -1,5 +1,3 @@
-
-
 # 💬 Real-Time Chat Application
 
 A modern, full-stack **real-time chat application** built with **React.js**, **Node.js**, **Socket.IO**, and **MongoDB**, supporting instant messaging, custom avatars, user presence, and full authentication.
