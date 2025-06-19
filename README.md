@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Chat Application
 
 A modern real-time chat application built with React.js, Node.js, Socket.IO, and MongoDB.
@@ -13,6 +14,29 @@ A modern real-time chat application built with React.js, Node.js, Socket.IO, and
 - User profile management
 
 ## Tech Stack
+=======
+# 💬 Real-Time Chat Application
+
+A modern, full-stack **real-time chat application** built with **React.js**, **Node.js**, **Socket.IO**, and **MongoDB**, supporting instant messaging, custom avatars, user presence, and full authentication.
+
+![Chat App Preview](https://user-images.githubusercontent.com/your-gif-or-screenshot.gif) <!-- optional: replace or remove -->
+
+---
+
+## ✨ Features
+
+- 🔒 User authentication (Register/Login)
+- 💬 Real-time messaging via WebSockets
+- 👤 Avatar selection & user profiles
+- 🟢 Online/offline status indicators
+- 🕓 Persistent message history
+- 📱 Responsive design for all screens
+- ⚙️ Clean folder structure and modular code
+
+---
+
+## 🛠️ Tech Stack
+>>>>>>> 1009daf2cd7deb1d96d4019be7259c3215be156a
 
 ### Frontend
 - React.js
@@ -25,6 +49,7 @@ A modern real-time chat application built with React.js, Node.js, Socket.IO, and
 ### Backend
 - Node.js
 - Express.js
+<<<<<<< HEAD
 - MongoDB
 - Socket.IO
 - Bcrypt
@@ -380,3 +405,20 @@ npm run build
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details 
+=======
+- MongoDB (via Mongoose)
+- Socket.IO
+- Bcrypt
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/<your-username>/chat-app.git
+cd chat-app
+
+
+>>>>>>> 1009daf2cd7deb1d96d4019be7259c3215be156a
